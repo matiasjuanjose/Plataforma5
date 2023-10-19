@@ -1,0 +1,23 @@
+button{ background-color: red ; 
+    border-color: red; 
+    height: 40px;
+    text-align: center;
+    border: 3px solid red;
+}
+
+body{
+    background-image: url(fondo.jpg);
+}
+nav {
+    header {
+        background: red;
+        width: 100%;
+        position: fixed;
+        z-index: 100;
+        background-color: red;
+        border-color: red; 
+        height: 80px;
+        text-align: center;
+        border: 3px solid red;
+      }
+}
